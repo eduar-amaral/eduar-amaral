@@ -1,36 +1,31 @@
 # Eduardo Amaral
 
-Computer Science student at 42 Lisboa, currently focused on Python, algorithms and object-oriented programming.
+Computer Science student at 42 Lisboa, currently focused on Python, algorithms and software development fundamentals.
 
 ## About Me
 
-- Currently working on Python modules
-- Building software engineering fundamentals from first principles
+- Working on Python modules at 42 Lisboa
+- Building strong foundations in software engineering through project-based learning
 - Interested in backend development and problem solving
-- Looking for junior developer opportunities
+- Open to junior developer opportunities
 
 ## Tech Stack
 
-- Python
-- C
-- Git
-- Linux
-- Algorithms & Data Structures
-- Object-Oriented Programming
+- Languages: Python, C
+- Core: Algorithms, Data Structures, OOP
+- Tools: Git, Linux
 
 ## Current Focus
 
-Building strong foundations in:
-- Clean code
-- Problem solving
-- Software design principles
-- Backend development
+- Writing clean and maintainable code
+- Strengthening software design fundamentals
+- Developing backend skills with Python
 
 ## 42 Projects
 
-- Push_swap
-- Python Modules
-- A_maze_ing
+- Push_swap — sorting algorithm optimization
+- Python Modules — Python fundamentals and OOP
+- A_maze_ing — maze solving using BFS and DFS
 
 ## Contact
 
