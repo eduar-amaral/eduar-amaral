@@ -1,16 +1,39 @@
-## Hi there 👋
+# Eduardo Amaral
 
-<!--
-**eduar-amaral/eduar-amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at 42 Lisboa, currently focused on software development fundamentals, Python, algorithms and object-oriented programming.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Student at 42 Lisboa
+- Currently working on Python modules
+- Learning software engineering from first principles
+- Looking for opportunities to grow as a junior developer
+
+## Tech Stack
+
+- Python
+- C
+- Git
+- Linux
+- Algorithms & Data Structures
+- Object-Oriented Programming
+
+## Current Focus
+
+Building strong foundations in:
+- Clean code
+- Problem solving
+- Software architecture
+- Backend development
+
+## 42 Projects
+
+Here are some of the projects I've completed during my journey at 42 Lisboa:
+- Push_swap
+- Python Modules
+- Other milestone projects
+
+## Contact
+
+- Email: eduardo.a.bassa97@gmail.com
+- GitHub: https://github.com/eduar-amaral
